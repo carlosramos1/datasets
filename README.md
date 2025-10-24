@@ -4,6 +4,6 @@ Repositorio para almacenar conjunto de datos para entrenamiento de modelos de Ma
 
 1. 
 
-2. `reviews_filmaffinity.csv`, Reseñas de películas:
+2. Reseñas de películas, [`reviews_filmaffinity.csv`](https://github.com/carlosramos1/datasets/blob/main/reviews_filmaffinity.csv):
     - columnas: (film_name, gender, film_avg_rate, review_rate, review_title, review_text)
     - fuente: https://www.kaggle.com/code/ricardomoya/an-lisis-de-sentimientos-clasificaci-n-de-textos/input
